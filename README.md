@@ -123,11 +123,18 @@ Je suis donc à la **recherche d’un stage en DevOps** pour mettre en pratique 
 
 ## 📫 Me contacter
 
-<p>
-  🌐 <strong>Portfolio</strong> : [elisabeth-alves-portfolio.netlify.app](https://elisabeth-alves-portfolio.netlify.app/)  
-  💼 <strong>LinkedIn</strong> : [linkedin.com/in/elisabeth-alves-b52b8b279](https://www.linkedin.com/in/elisabeth-alves-b52b8b279/)  
-  📧 <strong>Email</strong> : ealves0996@gmail.com  
+<p align="center">
+  <a href="https://elisabeth-alves-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge" height="32"/>
+  </a>
+  <a href="https://www.linkedin.com/in/elisabeth-alves-b52b8b279/" target="_blank">
+    <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+  </a>
+  <a href="mailto:ealves0996@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-ealves0996@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
+  </a>
 </p>
+
 
 ---
 
