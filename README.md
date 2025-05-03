@@ -3,7 +3,7 @@
 ## 🚀 Développeur DevOps en formation
 
 ### 👨‍💻 À propos de moi
-Étudiant à l'école 42, j'ai récemment terminé le tronc commun avec d'excellents résultats. Je suis actuellement à la recherche d'un stage en DevOps pour mettre en pratique mes compétences et continuer mon apprentissage.
+Étudiante à l'école 42, j'ai récemment terminé le tronc commun. Je suis actuellement à la recherche d'un stage en DevOps pour mettre en pratique mes compétences et continuer mon apprentissage.
 
 ### 📚 Projets 42
 Voici mes réalisations à l'école 42 avec leurs notes respectives :
@@ -30,9 +30,9 @@ Voici mes réalisations à l'école 42 avec leurs notes respectives :
 - 🛠️ **Outils** : Git, Make, Vim
 
 ### 📫 Contact
-- 🌐 **Portfolio** : [Votre lien portfolio]
-- 💼 **LinkedIn** : [Votre lien LinkedIn]
-- 📧 **Email** : [Votre email]
+- 🌐 **Portfolio** : https://elisabeth-alves-portfolio.netlify.app/
+- 💼 **LinkedIn** : https://www.linkedin.com/in/elisabeth-alves-b52b8b279/
+- 📧 **Email** : ealves0996@gmail.com
 
 ### 🎯 Statut
 🔍 Actuellement à la recherche d'un stage en DevOps
