@@ -10,7 +10,7 @@
 
 ## 🙋‍♀️ Qui suis-je ?
 
-Je suis une développeuse en formation à l’école 42, avec une passion particulière pour tout ce qui touche à l'infrastructure, la sécurité, l'automatisation et le cloud.
+En formation à l’école 42, je viens de terminer le tronc commun et je porte un interêt particuler pour tout ce qui touche à l'infrastructure, la sécurité, l'automatisation et le cloud.
 
 🎯 **Mon objectif** : devenir **Ingénieure DevOps** !  
 🛠️ **Pourquoi ?** Parce que j’aime comprendre comment tout fonctionne en profondeur, rendre les systèmes plus robustes, plus rapides, plus sûrs — et automatiser tout ce qui peut l’être.
@@ -19,36 +19,59 @@ Je suis donc à la **recherche d’un stage en DevOps** pour mettre en pratique 
 
 ---
 
+## 📊 Graphique des langages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ealves96&layout=compact&theme=radical" height="200"/>
+</p>
+
+---
+
 ## 🔥 Mes projets 42 
 
-<table>
-  <tr>
-    <th>Projet</th>
-    <th>Note</th>
-    <th>Projet</th>
-    <th>Note</th>
-  </tr>
-  <tr>
-    <td><a href="#">Libft</a></td><td><img src="https://img.shields.io/badge/42-115%2F100-brightgreen" /></td>
-    <td><a href="#">get_next_line</a></td><td><img src="https://img.shields.io/badge/42-125%2F100-brightgreen" /></td>
-  </tr>
-  <tr>
-    <td><a href="#">Born2beroot</a></td><td><img src="https://img.shields.io/badge/42-125%2F100-brightgreen" /></td>
-    <td><a href="#">pipex</a></td><td><img src="https://img.shields.io/badge/42-100%2F100-brightgreen" /></td>
-  </tr>
-  <tr>
-    <td><a href="#">so_long</a></td><td><img src="https://img.shields.io/badge/42-115%2F100-brightgreen" /></td>
-    <td><a href="#">minishell</a></td><td><img src="https://img.shields.io/badge/42-101%2F100-brightgreen" /></td>
-  </tr>
-  <tr>
-    <td><a href="#">cub3d</a></td><td><img src="https://img.shields.io/badge/42-105%2F100-brightgreen" /></td>
-    <td><a href="#">push_swap</a></td><td><img src="https://img.shields.io/badge/42-97%2F100-brightgreen" /></td>
-  </tr>
-  <tr>
-    <td><a href="#">inception</a></td><td><img src="https://img.shields.io/badge/42-100%2F100-brightgreen" /></td>
-    <td><a href="#">ft_transcendence</a></td><td><img src="https://img.shields.io/badge/42-120%2F100-brightgreen" /></td>
-  </tr>
-</table>
+<h2 align="center">🏆 Projets validés à l’école 42</h2>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <th style="font-size: 18px; padding: 10px;">Projet</th>
+      <th style="font-size: 18px; padding: 10px;">Note</th>
+      <th style="font-size: 18px; padding: 10px;">Projet</th>
+      <th style="font-size: 18px; padding: 10px;">Note</th>
+    </tr>
+    <tr>
+      <td style="font-size: 16px; text-align: center;">Libft</td>
+      <td><img src="https://img.shields.io/badge/42-115%2F100-brightgreen?style=for-the-badge" /></td>
+      <td style="font-size: 16px; text-align: center;">get_next_line</td>
+      <td><img src="https://img.shields.io/badge/42-125%2F100-brightgreen?style=for-the-badge" /></td>
+    </tr>
+    <tr>
+      <td style="font-size: 16px; text-align: center;">Born2beroot</td>
+      <td><img src="https://img.shields.io/badge/42-100%2F100-brightgreen?style=for-the-badge" /></td>
+      <td style="font-size: 16px; text-align: center;">pipex</td>
+      <td><img src="https://img.shields.io/badge/42-100%2F100-brightgreen?style=for-the-badge" /></td>
+    </tr>
+    <tr>
+      <td style="font-size: 16px; text-align: center;">so_long</td>
+      <td><img src="https://img.shields.io/badge/42-100%2F100-brightgreen?style=for-the-badge" /></td>
+      <td style="font-size: 16px; text-align: center;">minishell</td>
+      <td><img src="https://img.shields.io/badge/42-101%2F100-brightgreen?style=for-the-badge" /></td>
+    </tr>
+    <tr>
+      <td style="font-size: 16px; text-align: center;">cub3d</td>
+      <td><img src="https://img.shields.io/badge/42-105%2F100-brightgreen?style=for-the-badge" /></td>
+      <td style="font-size: 16px; text-align: center;">push_swap</td>
+      <td><img src="https://img.shields.io/badge/42-97%2F100-brightgreen?style=for-the-badge" /></td>
+    </tr>
+    <tr>
+      <td style="font-size: 16px; text-align: center;">inception</td>
+      <td><img src="https://img.shields.io/badge/42-100%2F100-brightgreen?style=for-the-badge" /></td>
+      <td style="font-size: 16px; text-align: center;">ft_transcendence</td>
+      <td><img src="https://img.shields.io/badge/42-120%2F100-brightgreen?style=for-the-badge" /></td>
+    </tr>
+  </table>
+</p>
+
 
 ---
 
@@ -75,14 +98,6 @@ Je suis donc à la **recherche d’un stage en DevOps** pour mettre en pratique 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=cmake&logoColor=white" height="30"/>
-</p>
-
----
-
-## 📊 Graphique des langages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ealves96&layout=compact&theme=radical" height="200"/>
 </p>
 
 ---
