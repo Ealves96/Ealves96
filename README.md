@@ -82,7 +82,7 @@ Je suis donc à la **recherche d’un stage en DevOps** pour mettre en pratique 
 ## 📊 Graphique des langages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_NOM_GITHUB&layout=compact&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ealves96&layout=compact&theme=radical" height="200"/>
 </p>
 
 ---
