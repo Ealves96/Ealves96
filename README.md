@@ -1,11 +1,25 @@
-<h1 align="center">👋 Salut, moi c'est Élie Alves !</h1>
-<p align="center">🚀 Développeuse DevOps | Étudiante à l'école 42 | Passionnée par les systèmes et les conteneurs</p>
+<!-- Banner -->
+<h1 align="center">👋 Salut, moi c’est Elisabeth Alves !</h1>
+<h3 align="center">🚀 Étudiante à l'école 42 | 💻 Future DevOps Engineer | 🌍 Passionnée par les systèmes & l'automatisation</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400"/>
+</p>
 
 ---
 
-## 🎓 Parcours à 42
+## 🙋‍♀️ Qui suis-je ?
 
-### 🏅 Projets Complétés avec Excellence
+Je suis une développeuse en formation à l’école 42, avec une passion particulière pour tout ce qui touche à l'infrastructure, la sécurité, l'automatisation et le cloud.
+
+🎯 **Mon objectif** : devenir **Ingénieure DevOps** !  
+🛠️ **Pourquoi ?** Parce que j’aime comprendre comment tout fonctionne en profondeur, rendre les systèmes plus robustes, plus rapides, plus sûrs — et automatiser tout ce qui peut l’être.
+
+Je suis donc à la **recherche d’un stage en DevOps** pour mettre en pratique tout ce que j’ai appris et continuer à monter en compétence dans ce domaine passionnant.
+
+---
+
+## 🔥 Mes projets 42 
 
 <table>
   <tr>
@@ -38,46 +52,51 @@
 
 ---
 
-## 💻 Compétences Techniques
+## 🛠️ Compétences techniques
 
-### 🔤 Langages et Technologies
+### 💬 Langages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+</p>
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Shell](https://img.shields.io/badge/-Shell-121011?style=flat-square&logo=gnu-bash)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![WebSocket](https://img.shields.io/badge/-WebSocket-000000?style=flat-square)
+### 🐧 DevOps & Systèmes
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="30"/>
+</p>
 
-### ⚙️ Environnements et Outils
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![DevOps](https://img.shields.io/badge/-DevOps-F05032?style=flat-square&logo=devops)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian)
-![VM](https://img.shields.io/badge/-VMs-0078D6?style=flat-square&logo=virtualbox)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-
----
-
-## 📊 GitHub Metrics
-
-> (Tu dois activer les GitHub Metrics via [ce repo](https://github.com/lowlighter/metrics))
-
-<img src="https://github-readme-stats.vercel.app/api?username=TonNomGitHub&show_icons=true&hide_title=true&hide=stars&theme=radical" alt="stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomGitHub&layout=compact&langs_count=10&theme=tokyonight" alt="top langs" />
+### 🔧 Outils
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=cmake&logoColor=white" height="30"/>
+</p>
 
 ---
 
-## 📫 Me Contacter
+## 📊 Graphique des langages
 
-- 🌐 [Mon portfolio](https://elisabeth-alves-portfolio.netlify.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/elisabeth-alves-b52b8b279/)
-- 📧 ealves0996@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_NOM_GITHUB&layout=compact&theme=radical" height="200"/>
+</p>
 
 ---
 
-<p align="center"><i>✨ Merci de votre visite ! N'hésitez pas à me contacter pour toute opportunité DevOps ✨</i></p>
+## 📫 Me contacter
+
+<p>
+  🌐 <strong>Portfolio</strong> : [elisabeth-alves-portfolio.netlify.app](https://elisabeth-alves-portfolio.netlify.app/)  
+  💼 <strong>LinkedIn</strong> : [linkedin.com/in/elisabeth-alves-b52b8b279](https://www.linkedin.com/in/elisabeth-alves-b52b8b279/)  
+  📧 <strong>Email</strong> : ealves0996@gmail.com  
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Merci de ta visite sur mon profil ! N’hésite pas à me contacter si tu as une opportunité DevOps à me proposer ✨</i>
+</p>
