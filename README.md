@@ -95,17 +95,18 @@ Je suis donc à la **recherche d’un stage en DevOps** pour mettre en pratique 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" height="28"/>
+  <!-- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/> -->
+  <!-- <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" height="28"/> -->
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Firewalling-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="28"/>
 </p>
 
 ### 🧠 Frameworks & Librairies
 <p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" height="28"/>
+  <!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28"/> -->
+  <!-- <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" height="28"/> -->
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Mlx-000000?style=for-the-badge&logo=three.js&logoColor=white" height="28"/>
 </p>
 
 ### ⚙️ Outils & Déploiement
